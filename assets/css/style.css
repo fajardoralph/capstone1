@@ -2,24 +2,61 @@
 	padding: 0;
 	border: 0;
 	box-sizing: border-box;
+	font-family: 'Raleway', sans-serif;
 }
 
-/*
-PACKAGE CONTROL
-
-1. Install Sublime Text Manager - Package Control sublime.wbond.net
-2. Copy Code to console
-2. Ctrl + Shift + P : Search Install Package
-4. Color Highlighter
-
-*/
 
 
-/*TEXT SNIPPETS
+/* about */
+
+#landing-about {
+	font-family: 'Montserrat', sans-serif;
+	color: #F2F2F2;
+	font-size: 5em;
+	padding-top: 20vh;
+	letter-spacing: 5px;
+	animation-duration: 5s;
+}
+
+#jumbotron-about {
+	background-color: #141414;
+	height: 90vh;
+	border-radius: 0;
+}
+
+#navbar-brand {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.about-tags {
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#mission {
+	height: 100%;
+	background-color: #141414; /* OFF BLACK */
+	color: #F2F2F2; /* OFF WHITE */
+}
+
+#vision {
+	height: 100%;
+	background-color: #F2F2F2; /* OFF WHITE */
+	color: #141414; /* OFF BLACK */
+
+}
 
 
+/* GALLERY */
 
+.card {
+	background-color: lightblue;
+	border: 1px solid lightblue;
+	margin: 1px;
+}
 
+.card img {
+	height: 200px;
+	width: auto;
+}
 
-
-*/
